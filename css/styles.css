@@ -16,6 +16,9 @@ body {
     background-color: #629873;
 }
 
+
+	
+
 .resume-main {
 	background-color: #E6DFB8;
 }
@@ -35,7 +38,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #629873;
 }
 
 .biography-details li, .skill-list li {
